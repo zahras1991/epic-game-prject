@@ -1,0 +1,33 @@
+@import url(./desk-navbar.css);
+@import url(./desk-search.css);
+@import url(./desk-slider1-sec.css);
+@import url(./desk-slider2-sec.css);
+@import url(./desk-slider3-sec.css);
+@import url(./desk-slider4-sec.css);
+@import url(./desk-slider5-sec.css);
+@import url(./desk-slider6-sec.css);
+@import url(./desk-slider7-sec.css);
+
+@import url(./desk-slider8-sec.css);
+@import url(./desk-slider9-sec.css);
+@import url(./desk-slider10-sec.css);
+@import url(./desk-slider11-sec.css);
+@import url(./desk-slider12-sec.css);
+@import url(./desk-slider13.css);
+@import url(./desk-slider14-sec.css);
+@import url(./desk-slider15-sec.css);
+@import url(./desk-slider16-sec.css);
+@import url(./desk-slider17-sec.css);
+@import url(./desk-slider18-sec.css);
+@import url(./desk-slider19-sec.css);
+@import url(./desk-slider20-sec.css);
+@import url(./desk-slider21-sec.css);
+@import url(./desk-slider22-sec.css);
+@import url(./desk-slider23-sec.css);
+@import url(./desk-slider24-sec.css);
+@import url(./desk-slider25-sec.css);
+@import url(./desk-footer.css);
+
+.d-none-desk{
+    display: none;
+}

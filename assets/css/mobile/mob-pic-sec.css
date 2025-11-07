@@ -1,0 +1,57 @@
+.pic{
+    width: 100%;
+    height: 405.38px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content:center;
+  row-gap:15px;
+  
+}
+.pic img{
+    width: 100%;
+    border-radius:8px;
+}
+.pic h2{
+    text-align: left;
+  width: 100%;
+  font-family: epic-bold;
+  color: #fff;
+  font-size:18px;
+
+  margin-bottom: 0!important;
+}
+.pic p{
+     display: flex;
+  justify-content: start;
+  width: 100%;
+  font-family: epic-md;
+  font-size: 14px;
+  color: rgba(170, 170, 170, 1);
+  margin-bottom: 0!important;
+
+
+
+}
+.pic div{
+    width: 127.73px;
+    height: 40px;
+    border-radius: 8px;
+    transition: 300ms;
+    background-color:#26bbff;
+}
+.pic div:active{
+    transform: scale(0.9);
+}
+.pic div a{
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+
+    text-decoration: none;
+    color: black;
+    font-family: epic-md;
+    font-size: 14px;
+    text-align: center;
+    line-height: 40px;
+}

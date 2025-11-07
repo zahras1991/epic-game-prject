@@ -1,0 +1,52 @@
+import acordion from "./acordion.js";
+import acorinfo from "./acorinfo.js";
+import fetchImages from "./gallery.js";
+import getData from "./menu.js";
+import toggle from "./nav.js";
+import slider1 from "./slider1.js";
+import slider10 from "./slider10.js";
+import slider11 from "./slider11.js";
+import slider12 from "./slider12.js";
+import slider13 from "./slider13.js";
+import slider14 from "./slider14.js";
+import slider15 from "./slider15.js";
+import slider16 from "./slider16.js";
+import slider17 from "./slider17.js";
+import slider18 from "./slider18.js";
+import slider19 from "./slider19.js";
+import slider2 from "./slider2.js";
+import slider3 from "./slider3.js";
+import slider4 from "./slider4.js";
+import slider5 from "./slider5.js";
+import slider6 from "./slider6.js";
+import slider7 from "./slider7.js";
+import slider8 from "./slider8.js";
+import slider9 from "./slider9.js";
+getData();
+toggle();
+fetchImages();
+slider1();
+slider2();
+slider3();
+slider4();
+slider5();
+slider6();
+slider7();
+slider9();
+slider8();
+slider10();
+slider11();
+slider12();
+slider18();
+slider13();
+slider14();
+slider15();
+slider16();
+slider17();
+slider19();
+acordion();
+acorinfo();
+
+
+
+

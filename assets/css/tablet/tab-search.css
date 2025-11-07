@@ -1,0 +1,11 @@
+.serach-sec{
+    width: 100%!important;
+    height: 80px!important;
+    margin: 0!important;
+    padding: 0!important;
+  
+  position: sticky;
+    z-index: 999;
+    top: 0;
+    background-color: #101014;
+}

@@ -1,0 +1,220 @@
+/* ------------------ عمومی ------------------ */
+.bg-body-tertiary {
+  background-color: #121218ea !important;
+}
+
+.contain {
+  width: 100% !important;
+  background-color: #121218ea !important;
+  padding: 0 !important;
+  overflow: visible !important; /* اصلاح شد */
+}
+
+/* ------------------ Navbar ------------------ */
+.navbar {
+  height: 72px;
+  padding: 16px 8px;
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 9999;
+}
+
+.navbar-nav {
+  margin-left: auto !important;
+  position: relative; /* اجازه می‌ده dropdown درست محاسبه شود */
+}
+
+.navbar-collapse {
+  background-color: #121218ea !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  overflow: visible !important; /* اصلاح شد */
+}
+
+/* ------------------ Toggler ------------------ */
+.navbar-toggler {
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active {
+  outline: none !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+
+.navbar-toggler-icon {
+  border: unset;
+  margin-left: 18px;
+  padding: 0 !important;
+}
+
+.navbar-toggler svg {
+  width: 26px !important;
+  height: 26px !important;
+  color: #a39c9c;
+}
+
+/* ------------------ Epic Dropdown ------------------ */
+.btn-main {
+  transition: 200ms;
+  margin-left: 10px;
+}
+
+.btn-epic {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: unset !important;
+  border: unset !important;
+  padding: 0 !important;
+  margin-right: 10px;
+  margin-left: 20px;
+}
+
+.btn-epic img {
+  width: 25px !important;
+  height: 32px !important;
+}
+
+/* ------------------ Store Logo ------------------ */
+.store {
+  width: 60px;
+  height: 100%;
+  margin-left: 10px;
+  margin-right: auto;
+  transition: 400ms;
+}
+
+.store img {
+  width: 60px !important;
+  height: 32px !important;
+  object-fit: cover;
+  vertical-align: center;
+  display: inline-block;
+}
+
+/* ------------------ دکمه‌ها ------------------ */
+.menubtn {
+  width: 22%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  column-gap: 10px;
+  direction: rtl;
+  margin-left: auto;
+  position: absolute;
+  right: 10px;
+}
+
+.menubtn .download {
+  width: 86px;
+  height: 32px;
+  display: inline-block;
+  text-align: center;
+  background-color: #26bbff;
+  border-radius: 6px;
+  font-weight: 500;
+  border: unset;
+  line-height: 32px;
+}
+
+.menubtn .download a {
+  text-decoration: none;
+  font-size: 14px;
+  color: black;
+  font-family: epic-md;
+}
+
+.menubtn .singin {
+  width: 71px;
+  height: 32px;
+  line-height: 32px;
+  display: inline-block;
+  text-align: center;
+  background-color: #ffffff26;
+  border-radius: 6px;
+  font-weight: 500;
+  border: unset;
+}
+
+.singin a {
+  text-decoration: none;
+  font-size: 14px;
+  color: #fff;
+  font-family: epic-md;
+}
+
+/* ------------------ زبان ------------------ */
+.lan {
+  width: 10% !important;
+}
+.lan svg {
+  width: 28px;
+  height: 28px;
+  fill: #fff;
+  transition: fill 0.2s ease;
+}
+.lan svg:hover {
+  fill: #ffffff26;
+}
+
+/* ------------------ حالت فعال ------------------ */
+.store-active {
+  transform: translate(-50px);
+}
+
+.btn-main-active {
+  opacity: 0;
+}
+
+/* ------------------ لینک‌های Navbar ------------------ */
+.navbar-nav .nav-item .nav-link {
+  font-family: epic-md;
+  font-size: 14px;
+  color: #ffffff;
+  transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+  color: #ffffff26 !important;
+}
+
+/* ------------------ زیرمنوهای Navbar (Bootstrap) ------------------ */
+.nav-item.dropdown {
+  position: relative;
+}
+
+.nav-item.dropdown .dropdown-menu {
+  z-index: 9999;
+  /* حذف display:none تا bootstrap JS کنترل کنه */
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Hover فقط برای دسکتاپ اگر خواستی */
+@media (min-width: 992px) {
+  .nav-item.dropdown:hover > .dropdown-menu {
+    display: block;
+  }
+}
+
+/* ------------------ Collapse در موبایل ------------------ */
+.navbar-collapse.show {
+  height: 100vh;
+  width: 100%;
+}
+.navbar-nav{
+  margin-left:20px!important
+  ;
+}

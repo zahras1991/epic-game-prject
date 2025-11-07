@@ -1,0 +1,223 @@
+
+
+.gallery {
+  width: 77%;
+  display: flex;
+  height: 454px;
+  gap: 10px;
+  margin: 0 auto;
+  
+}
+
+.main-image {
+  width: 900px;
+
+  flex: 3;
+  background: #000;
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+}
+.main-image .image{
+  width: 100%;
+  height: 100%;
+  position:relative;
+}
+.main-image .layer{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(0,0,0,0));
+   
+    position:relative;
+    /* top: 0;
+    left: 0; */
+    z-index: 22;
+}
+.main-image .layer .content{
+  width: 50%;
+  height: 50%;
+  position: absolute;
+  bottom:0;
+  left: 10%;
+}
+.main-image .layer .content h2{
+  font-size: 18px;
+  color:#fff;
+  margin-bottom: 20px;
+  
+}
+.main-image .layer .content p{
+   font-size: 14px;
+  color:#fff
+}
+.main-image .layer .content .btns{
+  margin-top: 30px;
+width: 100%;
+display: flex;
+align-items: center;
+justify-content: start;
+column-gap: 20px;
+}
+
+.main-image .layer .content .btns button{
+  width: 178px;
+  height: 48px;
+  background-color: #fff;
+  border: unset;
+  border-radius: 8px;
+}
+.main-image .layer .content .btns button a{
+  width: 100%;
+  line-height: 48px;
+  text-decoration: none;
+
+   font-size: 14px;
+   color: #000;
+
+}
+.main-image .layer .content .btns .button2{
+
+  background-color:unset;
+}
+.main-image .layer .content .btns .button2:hover
+{
+   background-color: #ffffff28;
+}
+
+.main-image .layer .content .btns .button2 a{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  column-gap: 10px;
+color: #fff;}
+
+
+.main-image .image {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
+
+.main-image .image.active {
+  opacity: 1;
+  z-index: 2;
+}
+
+
+
+
+
+
+.main-image .image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 1;
+  /* transform: translateX(-30px); */
+  transition: opacity 1s ease, transform 1s ease;
+ 
+}
+
+.main-image img.active {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.thumbnails {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.thumb {
+  width: 176.73px;
+  height: 73px;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: start;
+  column-gap: 10px;
+  padding: 7px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: transparent; /* حالت عادی */
+  transition: background-color 0.3s ease;
+  border-radius: 8px;
+}
+.thumb p {
+  font-size: 14px;
+  color: #fff;
+  font-weight: 200;
+}
+
+/* وقتی فعال یا فوکوس شد */
+.thumb.active,
+.thumb:hover {
+  background-color: rgba(200, 200, 200, 0.137); /* طوسی ملایم */
+  border-radius: 8px;
+}
+
+.thumb img {
+  width: 40px;
+  height: 53px;
+  object-fit: cover;
+  display: block;
+  border-radius: 8px;
+}
+
+.thumb::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.158);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: none;
+}
+
+.thumb.active::after {
+  animation: fillWhite 4s linear forwards;
+}
+
+@keyframes fillWhite {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+.main-slide {
+  position: relative;
+  width: 100%;
+  height: 500px; /* همان ارتفاع قبلی */
+  display: none;
+}
+
+.main-slide.active {
+  display: block;
+}
+
+.main-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.slide-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+

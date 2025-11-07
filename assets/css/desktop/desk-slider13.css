@@ -1,0 +1,194 @@
+   .slider13{
+      width: 77%;
+    /* height:498.92px; */
+    margin: 0 auto;
+   
+  overflow: hidden;
+    margin-bottom: 62px;
+
+   }
+
+   .slider13 .caption a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+     font-family: epic-bold;
+
+   }
+    .slider13 .swiper {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      padding:0 20px;
+
+    }
+
+   .slider13 .swiper .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      justify-content:start;
+      align-items:start;
+      overflow: hidden;
+      margin-bottom: 40px;
+    }
+    
+
+   .slider13 .swiper .swiper-slide img {
+      display: block;
+      width: 100%;
+      height:242px;
+      object-fit: cover;
+       border-radius: 8px;
+    }
+    .slider13 .swiper .swiper-slide .describe{
+      width: 98%;
+     
+      display: flex;
+      flex-direction: column;
+      justify-content: start;
+      align-items: start;
+  
+    }
+    .slider13 .swiper .swiper-slide .describe div,span{
+      text-align: left;
+      display: inline-block;
+      width: 100%;
+    }
+     .slider13 .swiper .swiper-slide .describe span{
+      font-family:epic-md;
+      font-size: 12px;
+      font-weight: 500;
+      color: rgba(170, 170, 170, 0.548);
+      margin-top: 10px;
+     }
+     .slider13 .swiper .swiper-slide .describe div{
+       font-family:epic-bold;
+      font-size: 16px;
+      font-weight: 500;
+      color:#fff;
+     margin-top: 10px;
+     }
+      .slider13 .swiper .swiper-slide .describe div.free2{
+          font-family:epic-md;
+      font-size: 14px;
+      font-weight: 500;
+      color:#fff;
+     margin-top: 10px;
+      }
+
+   .slider13 .swiper .swiper-slide .content div span{
+  display: inline-block;
+  width: 60px;
+  height: 20px;
+  font-size: 14px;
+
+  font-family: epic-md;
+  color: #fff;
+  
+}
+.slider13 .swiper .swiper-slide .describe .first{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: start;
+  column-gap: 10px;
+}
+
+.slider13 .swiper .swiper-slide .describe .first .free{
+  padding: 3px 8px;
+ 
+margin-top: 0;
+  width:88px!important;
+  height:24px;
+  background-color:#ffffff26;
+  border-radius: 8px;
+  font-family: epic-md;
+  font-size: 12px;
+  color: #fff;
+}
+.slider13 .swiper .swiper-slide .describe .first .free a{
+  text-decoration: none;
+  width: 100%;
+  height: 100%;
+   display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content:center;
+column-gap: 2px;
+ 
+ 
+  border-radius: 8px;
+  font-family: epic-md;
+  font-size: 12px;
+  color: #fff;
+}
+  .slider13 .swiper .swiper-slide .describe .first .after2{
+  display: inline-block;
+  height: inherit;
+  width: 150px;
+  font-size: 14px;
+  font-weight: 300;
+
+
+  font-family: epic-md;
+  color: rgba(170, 170, 170, 1);
+    margin-top:0!important;
+  
+}
+.slider13 .swiper .swiper-slide .describe.content{
+  width: 100%;
+  
+}
+.slider13 .swiper .swiper-slide .describe .content div{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content:start;
+  column-gap: 5px;
+  flex-direction: row;
+    margin-top:0!important;
+
+  
+}
+.slider13 .swiper .swiper-slide .describe .content div .off {
+  display: flex;
+  align-items: center;
+  justify-content:space-around;
+  width: 48px;
+  height: 20px;
+  border-radius: 10px;
+  font-size: 12px;
+  font-weight:500;
+  color: black;
+  background-color: #26bbff;
+}
+.slider13 .swiper .swiper-slide .describe .content div span.before{
+  display: inline-block;
+  width: 48px;
+  height: 20px;
+  font-size: 14px;
+  font-family: epic-md;
+  color: rgba(170, 170, 170, 1);
+  text-decoration: line-through;
+    margin-top:0!important;
+}
+.slider13 .swiper .swiper-slide .describe .content div .after{
+      
+               width:48px;
+      height: 20px;
+       font-size:14px;
+         font-family: epic-md;
+           color:#fff;
+             margin-top:0!important;
+         
+
+      }
+ 
+  
+
+

@@ -1,0 +1,205 @@
+.footer-mob {
+  width: 100%;
+ overflow: hidden;
+  padding: 80px 16px;
+  background-color: #18181c;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+.footer-mob .logos {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+.footer-mob .logos .store {
+  width: 100%;
+  height: 32px !important;
+  margin: 0 auto !important;
+  text-align: center;
+}
+.footer-mob .logos .store img {
+  width: 59px !important;
+  height: 32px !important;
+}
+.footer-mob .logos .logo {
+  width: 100%;
+  height: 28px;
+  text-align: center;
+}
+.footer-mob .logos .logo svg {
+  width: 28px;
+  height: 28px;
+  fill: #ffffff88;
+}
+
+/* acordion */
+.footer-mob .buttom-foot {
+  width: 100%;
+  background-color: #18181c;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+ 
+  padding-top: 50px;
+  font-family: sans-serif;
+}
+
+.accordion {
+  width:90%;
+  /* max-width: 430px; */
+  background-color: #18181c;
+  border: none;
+}
+
+.accordion-item {
+  background-color: #18181c;
+  border: none;
+  border-bottom: 1px solid #2a2a2f;
+  border-top: 1px solid #2a2a2f;
+}
+
+.accordion-button {
+  background-color: #18181c;
+  color: #fff;
+  height: 60px;
+  border: none;
+  box-shadow: none !important;
+  outline: none !important;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* flex-direction پیش‌فرض (LTR) */
+  text-align: left; /* متن سمت چپ */
+}
+.accordion-button.collapsed {
+  border-bottom: 1px solid #2a2a2f !important;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: #18181c;
+  color: #fff;
+  box-shadow: none !important;
+ border-bottom: none !important;
+   
+}
+
+.accordion-body {
+   padding: 15px; 
+  background-color: #18181c;
+  color: #ddd;
+ border-top: none !important;
+  text-align: left; /* محتوای آیتم سمت چپ */
+
+}
+
+.accordion-body a {
+  display: inline-block;
+  width: 100%;
+
+  font-family: epic-md;
+  font-size: 14px;
+  color: rgba(170, 170, 170, 1);
+  text-align: left;
+
+  text-decoration: none;
+}
+
+.accordion-button:focus {
+  box-shadow: none;
+}
+
+/* SVG آیکون سفارشی */
+.accordion-button::after {
+    content: "";
+    background: url('data:image/svg+xml;utf8,<svg fill="white" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M19.53 8.97a.75.75 0 0 1 0 1.06L12 17.56l-7.53-7.53a.75.75 0 1 1 1.06-1.06L12 15.44l6.47-6.47a.75.75 0 0 1 1.06 0" clip-rule="evenodd"/></svg>') no-repeat center !important;
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+    transition: transform 0.3s ease, background 0s !important; /* background 0s جلوگیری از تغییر رنگ */
+}
+
+.accordion-button:not(.collapsed)::after {
+    transform: rotate(-180deg);
+    background: url('data:image/svg+xml;utf8,<svg fill="white" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M19.53 8.97a.75.75 0 0 1 0 1.06L12 17.56l-7.53-7.53a.75.75 0 1 1 1.06-1.06L12 15.44l6.47-6.47a.75.75 0 0 1 1.06 0" clip-rule="evenodd"/></svg>') no-repeat center !important;
+}
+
+/* جلوگیری از لرزش هنگام باز و بسته شدن */
+.accordion-collapse {
+  overflow: hidden;
+  /* transition: height 0.35s ease; */
+}
+.accordion-button h2 {
+  font-family: epic-bold;
+  font-size: 22px;
+  color: #fff;
+}
+/* article */
+article {
+  width: 100%;
+  font-family: epic-md;
+  font-size: 12px;
+  color: rgba(170, 170, 170, 1);
+  text-align: center;
+  margin-bottom: 35px;
+  margin-top:40px;
+}
+
+/* links */
+.footer-mob .links {
+  width: 100%;
+  height: 48px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.footer-mob .links a {
+  display: inline-block;
+  width: 30%;
+
+  font-family: epic-md;
+  font-size: 12px;
+  color: rgba(170, 170, 170, 1);
+  text-align: center;
+
+  text-decoration: none;
+}
+
+/* back to top */
+.footer-mob .back-top {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
+.footer-mob .back-top .back {
+  width: 146.66px;
+  height: 48px;
+  border-radius: 8px;
+  background-color: #ffffff26;
+}
+.footer-mob .back-top .back a {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+  color: #fff;
+  font-family: epic-md;
+  font-size: 14px;
+  line-height: 48px;
+  text-align: center;
+}
+.footer-mob .back-top .back a svg {
+  width: 20px;
+  height: 20px;
+  fill: #fff;
+}

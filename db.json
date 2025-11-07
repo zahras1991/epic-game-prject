@@ -1,0 +1,1534 @@
+{
+  "menu": [
+    
+ {"id":1,"title":"Suport", "href": "#","submenu":""},
+    { "id": 2,"title": "Distribute", "href": "#", "submenu": [
+      { "id": 1, "title": "Epic-game-sub1" },
+      { "id": 1, "title": "Epic-game-sub2" },
+      { "id": 1, "title": "Epic-game-sub3" }
+      ] }
+     
+  ],
+
+  "slider1": [
+    {
+      "id": 1,
+      "title": "Fornite",
+      "titlemain": "NEW SEASON",
+      "describ": "Springfield has taken over Fortnite! Drop in and battle your neighborino.",
+      "button1": "Play For Free",
+      "button2": "Add to Wishlist",
+      "imgMain": "https://cdn2.unrealengine.com/egs-fortnite-c6s2-carousel-desktop-1920x1080-be3e28826581.jpg?resize=1&w=1280&h=720&quality=medium",
+      "imgThumb": "https://cdn2.unrealengine.com/egs-fortnite-c6s2-carousel-thumb-1200x1600-1705fbc40955.jpg?resize=1&w=96&h=128&quality=medium"
+    },
+    {
+      "id": 2,
+      "title": "Resident Evil: Requiem",
+      "titlemain": "NEW SEASON2",
+      "describ": "Springfield has taken over Fortnite! Drop in and battle your neighborino.",
+      "button1": "Play For Free",
+      "button2": "",
+      "imgMain": "https://cdn2.unrealengine.com/egs-resident-evil-requiem-carousel-desktop-1920x1080-92a46db2299b.jpg?resize=1&w=1280&h=720&quality=medium",
+      "imgThumb": "https://cdn2.unrealengine.com/re-egs-resident-evil-requiem-carousel-thumb-1200x1600-27a16acb6b8b.jpg?resize=1&w=96&h=128&quality=medium"
+    },
+    {
+      "id": 3,
+      "title": "Battlefield REDSEC",
+      "titlemain": "NEW SEASON3",
+      "describ": "Springfield has taken over Fortnite! Drop in and battle your neighborino.",
+      "button1": "Play For Free",
+      "button2": "Add to Wishlist",
+      "imgMain": "https://cdn2.unrealengine.com/egs-battlefield-6-redsec-carousel-desktop-1920x1080-0db286e1c0ff.jpg?resize=1&w=1280&h=720&quality=medium",
+      "imgThumb": "https://cdn2.unrealengine.com/egs-battlefield-6-redsec-carousel-thumb-1200x1600-0f65a5a1aa4b.jpg?resize=1&w=96&h=128&quality=medium"
+    },
+    {
+      "id": 4,
+      "title": "EA SPORTS FC™ 26",
+      "titlemain": "NEW SEASON4",
+      "describ": "Springfield has taken over Fortnite! Drop in and battle your neighborino.",
+      "button1": "Play For Free",
+      "button2": "Add to Wishlist",
+      "imgMain": "https://cdn2.unrealengine.com/egs-fc-26-carousel-desktop-1248x702-cfdaed18f79f.jpg?resize=1&w=1280&h=720&quality=medium",
+      "imgThumb": "https://cdn2.unrealengine.com/egs-fc-26-carousel-thumb-1200x1600-71788b9b4c30.jpg?resize=1&w=96&h=128&quality=medium"
+    },
+    {
+      "id": 5,
+      "title": "ARC Raiders",
+      "titlemain": "NEW SEASON5",
+      "describ": "Springfield has taken over Fortnite! Drop in and battle your neighborino.",
+      "button1": "Play For Free",
+      "button2": "",
+      "imgMain": "https://cdn2.unrealengine.com/egs-duet-night-abyss-carousel-static-desktop-1920x1080-64e542fad1ff.jpg",
+      "imgThumb": "https://cdn2.unrealengine.com/egs-duet-night-abyss-carousel-thumb-1200x1600-66a75e852623.jpg?resize=1&w=96&h=128&quality=medium"
+    },
+    {
+      "id": 6,
+      "title": "Football Manager 26",
+      "titlemain": "NEW SEASON5",
+      "describ": "Springfield has taken over Fortnite! Drop in and battle your neighborino.",
+      "button1": "Play For Free",
+      "button2": "Add to Wishlist",
+      "imgMain": "https://cdn2.unrealengine.com/egs-arc-raiders-playtest-carousel-desktop-1920x1080-54ffe6ec7238.jpg?resize=1&w=1280&h=720&quality=medium",
+      "imgThumb": "https://cdn2.unrealengine.com/egs-arc-raiders-playtest-carousel-thumb-1200x1600-080b6fe28873.jpg?resize=1&w=96&h=128&quality=medium"
+    }
+  ],
+  "slider2": [
+    {
+      "id": 1,
+      "titlelit": "Base game",
+      "titlebig": "Bounty Star",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/9490a6eed8584a7eb30f28f999a40d31/bounty-star-i7otl.jpg?resize=1&w=360&h=480&quality=medium",
+      "alt": "Bounty Star",
+      "off": "-10%",
+      "before": "$49.99",
+      "after": "$44.99"
+    },
+    {
+      "id": 2,
+      "titlelit": "Base game",
+      "titlebig": "ARC Raiders",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/9e8b37541e614575b4de303d2c2e44cf/arc-raiders-hrxqv.jpg?resize=1&w=360&h=480&quality=medium",
+      "alt": "Bounty Star",
+      "off": "",
+      "before": "",
+      "after": "$44.99"
+    },
+    {
+      "id": 3,
+      "titlelit": "Base game",
+      "titlebig": "Bounty Star",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/b1b378261bbc491ba9cedafb3a9d0a57/full-metal-schoolgirl-v3o61.jpg?resize=1&w=360&h=480&quality=medium",
+      "alt": "FULL METAL SCHOOLGIRL",
+      "off": "-50%",
+      "before": "$49.99",
+      "after": "$44.99"
+    },
+    {
+      "id": 4,
+      "titlelit": "Base game",
+      "titlebig": "Bounty Star",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/9490a6eed8584a7eb30f28f999a40d31/bounty-star-i7otl.jpg?resize=1&w=360&h=480&quality=medium",
+      "alt": "Bounty Star",
+      "off": "-10%",
+      "before": "$49.99",
+      "after": "$44.99"
+    },
+    {
+      "id": 5,
+      "titlelit": "Base game",
+      "titlebig": "ARC Raiders",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/9e8b37541e614575b4de303d2c2e44cf/arc-raiders-hrxqv.jpg?resize=1&w=360&h=480&quality=medium",
+      "alt": "Bounty Star",
+      "off": "",
+      "before": "",
+      "after": "$44.99"
+    }
+  ],
+  "slider3": [
+    {
+      "id": 1,
+      "titlelit": "Check out the latest updates in Fortnite, from classic Battle Royale to Blitz and Delulu. There’s always something new in Fortnite!",
+      "titlebig": "This Week in Fortnite",
+      "imgsrc": "https://cdn2.unrealengine.com/fneco-keyart-25-egs-launcher-keyart-breaker-1920x1080-1920x1080-0b655fc3a84f.jpg?resize=1&w=854&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "button": "Discover Now"
+    },
+    {
+      "id": 2,
+      "titlelit": "Eat my shorts! Bart Simpson has landed in Fortnite.",
+      "titlebig": "Fortnite",
+      "imgsrc": "https://cdn2.unrealengine.com/fnbr-38-00-c6ms2-bart-social-share-1920x1080-1920x1080-835c8bbd9f8f.jpg?resize=1&w=854&h=480&quality=medium",
+      "alt": "Fortnite",
+      "href": "#",
+      "button": "See In Shop"
+    },
+    {
+      "id": 3,
+      "titlelit": "Everything's better with a Sidekick! Get the first Sidekick, Peels, in the Springfield Battle Pass.",
+      "titlebig": "Fortnite",
+      "imgsrc": "https://cdn2.unrealengine.com/fneco-keyart-25-egs-launcher-keyart-breaker-1920x1080-1920x1080-0b655fc3a84f.jpg?resize=1&w=854&h=480&quality=medium",
+      "alt": "Fortnite",
+      "href": "#",
+      "button": "Learn More"
+    }
+  ],
+  "slider4": [
+    {
+      "id": 1,
+      "titlelit": "Base game",
+      "titlebig": "Grand Theft Auto V Enhanced",
+      "imgsrc": "https://cdn1.epicgames.com/offer/c4763f236d08423eb47b4c3008779c84/EGS_AlanWake2_RemedyEntertainment_S2_1200x1600-c7c8091ddac0f9669c8e5905bca88aaa?resize=1&w=360&h=480&quality=medium",
+      "alt": "Grand Theft Auto V Enhanced",
+      "off": "-10%",
+      "before": "$49.99",
+      "after": "",
+      "val": "VAT Incl."
+    },
+    {
+      "id": 2,
+      "titlelit": "Base game",
+      "titlebig": "ARC Raiders",
+      "imgsrc": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5?resize=1&w=360&h=480&quality=medium",
+      "alt": "Bounty Star",
+      "off": "",
+      "before": "",
+      "after": "$44.99",
+      "val": "VAT Incl."
+    },
+    {
+      "id": 3,
+      "titlelit": "Base game",
+      "titlebig": "Bounty Star",
+      "imgsrc": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic Games_860x1148-860x1148-b4c2210ee0c3c3b843a8de399bfe7f5c.jpg?resize=1&w=360&h=480&quality=medium",
+      "alt": "FULL METAL SCHOOLGIRL",
+      "off": "-50%",
+      "before": "$49.99",
+      "after": "$44.99",
+      "val": "VAT Incl."
+    },
+    {
+      "id": 4,
+      "titlelit": "Base game",
+      "titlebig": "Grand Theft Auto V Enhanced",
+      "imgsrc": "https://cdn1.epicgames.com/offer/c4763f236d08423eb47b4c3008779c84/EGS_AlanWake2_RemedyEntertainment_S2_1200x1600-c7c8091ddac0f9669c8e5905bca88aaa?resize=1&w=360&h=480&quality=medium",
+      "alt": "Grand Theft Auto V Enhanced",
+      "off": "-10%",
+      "before": "$49.99",
+      "after": "",
+      "val": "VAT Incl."
+    },
+    {
+      "id": 5,
+      "titlelit": "Base game",
+      "titlebig": "ARC Raiders",
+      "imgsrc": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5?resize=1&w=360&h=480&quality=medium",
+      "alt": "Bounty Star",
+      "off": "",
+      "before": "",
+      "after": "$44.99",
+      "val": "VAT Incl."
+    }
+  ],
+  "slider5": [
+    {
+      "id": 1,
+      "titlelit": "",
+      "titlebig": "Destiny 2: Year of Prophecy",
+      "imgsrc": "https://cdn2.unrealengine.com/en-egs-deals-of-the-week-breaker-1920x1080-594f2f5b45c9.jpg?resize=1&w=854&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "-50%",
+      "before": "$49.99",
+      "after": "$44.99",
+      "val": "VAT Incl.",
+      "button": ""
+    },
+    {
+      "id": 2,
+      "titlelit": "Eat my shorts! Bart Simpson has landed in Fortnite.",
+      "titlebig": "Pathfinder: Wrath of the Righteous - Game of the Year Edition",
+      "imgsrc": "https://cdn2.unrealengine.com/en-egs-deals-of-the-week-breaker-1920x1080-ff434b92a648.jpg?resize=1&w=854&h=480&quality=medium",
+      "alt": "Fortnite",
+      "href": "#",
+      "off": "-50%",
+      "before": "$49.99",
+      "after": "$44.99",
+      "val": "VAT Incl.",
+      "button": ""
+    },
+    {
+      "id": 3,
+      "titlelit": "Everything's better with a Sidekick! Get the first Sidekick, Peels, in the Springfield Battle Pass.",
+      "titlebig": "Check out all the deals for this week.",
+      "imgsrc": "https://cdn2.unrealengine.com/en-sales-specials-dotw-breaker-asset-1920x1080-1313ee288796.jpg?resize=1&w=854&h=480&quality=medium",
+      "alt": "Fortnite",
+      "href": "#",
+      "off": "",
+      "before": "",
+      "after": "",
+      "val": "",
+      "button": "Browse"
+    }
+  ],
+  "slider6": [
+    {
+      "id": 1,
+      "titlelit": "Base Game",
+      "titlebig": "Bendy and the Ink Machine",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1lsmb.png?resize=1&w=360&h=480&quality=medium",
+      "alt": "Bendy and the Ink Machine",
+      "href": "#",
+      "free": "Free Now",
+      "Soon": ""
+    },
+    {
+      "id": 2,
+      "titlelit": "Free Now - at 06:00 PM",
+      "titlebig": "Bendy and the Ink Machine",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-161gk.png?resize=1&w=360&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "free": "Free Now",
+      "Soon": ""
+    },
+    {
+      "id": 3,
+      "titlelit": "Free Now - at 06:00 PM",
+      "titlebig": "Felix The Reaper",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/582d7a7c91264ee2b68f93e666870a1b/felix-the-reaper-1q432.png?resize=1&w=360&h=480&quality=medium",
+      "alt": "Felix The Reaper",
+      "href": "#",
+      "free": "",
+      "Soon": "Coming Soon"
+    },
+    {
+      "id": 4,
+      "titlelit": "Free Now - at 06:00 PM",
+      "titlebig": "Idle Champions of the Forgotten Realms",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-u29xa.png?resize=1&w=360&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "free": "",
+      "Soon": "Coming Soon"
+    }
+  ],
+  "slider7": [
+    {
+      "id": 1,
+      "titlelit": "Base game",
+      "titlebig": "ARC Raiders",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/9e8b37541e614575b4de303d2c2e44cf/arc-raiders-hrxqv.jpg?resize=1&w=360&h=480&quality=medium",
+      "alt": "Grand Theft Auto V Enhanced",
+      "off": "",
+      "before": "",
+      "after": "$44.99",
+      "val": ""
+    },
+    {
+      "id": 2,
+      "titlelit": "Base game",
+      "titlebig": "FULL METAL SCHOOLGIRL",
+      "imgsrc": "https://cdn1.epicgames.com/offer/a14a02aa3c8143729605eaf7c93d7501/EGS_Battlefield6_BattlefieldStudios_S2_1200x1600-a88625a836120c55650c83d17a010c25?resize=1&w=360&h=480&quality=medium",
+      "alt": "Grand Theft Auto V Enhanced",
+      "off": "",
+      "before": "",
+      "after": "$44.99",
+      "val": ""
+    },
+    {
+      "id": 3,
+      "titlelit": "Base game",
+      "titlebig": "Grand Theft Auto V Enhanced",
+      "imgsrc": "https://cdn1.epicgames.com/offer/1d4d85b1051e41ee8f1a099e99d59f3f/EGS_EASPORTSFC26StandardEdition_EACANADA_S2_1200x1600-effee280c00b9890a0c5249d4b0e5c97?resize=1&w=360&h=480&quality=medium",
+      "alt": "Grand Theft Auto V Enhanced",
+      "off": "-10%",
+      "before": "$49.99",
+      "after": "$44.99",
+      "val": "VAT Incl."
+    },
+    {
+      "id": 4,
+      "titlelit": "Base game",
+      "titlebig": "Beacon of Neyda",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-19wjd.png?resize=1&w=360&h=480&quality=medium",
+      "alt": "Grand Theft Auto V Enhanced",
+      "off": "-10%",
+      "before": "$49.99",
+      "after": "$44.99",
+      "val": "VAT Incl."
+    },
+    {
+      "id": 5,
+      "titlelit": "Base game",
+      "titlebig": "GODBREAKERS",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/b1b378261bbc491ba9cedafb3a9d0a57/full-metal-schoolgirl-v3o61.jpg?resize=1&w=360&h=480&quality=medium",
+      "alt": "Grand Theft Auto V Enhanced",
+      "off": "-10%",
+      "before": "",
+      "after": "",
+      "val": "VAT Incl."
+    }
+  ],
+
+  "slider8": [
+    {
+      "id": 1,
+      "title": "Top Sellers",
+      "product": [
+        {
+          "id": 1,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/spt-assets/9e8b37541e614575b4de303d2c2e44cf/arc-raiders-hrxqv.jpg?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "$49.44",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 2,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/a14a02aa3c8143729605eaf7c93d7501/EGS_Battlefield6_BattlefieldStudios_S2_1200x1600-a88625a836120c55650c83d17a010c25?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "$49.44",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 3,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/b0cd075465c44f87be3b505ac04a2e46/GTAV_CHARM_Epic_FirstParty_PortraitFOB_1200x1600_R02_1200x1600-a5528b33df876e64f5dee728830c80a3?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "$44.99",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 4,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic%20Games_860x1148-860x1148-b4c2210ee0c3c3b843a8de399bfe7f5c.jpg?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "$44.99",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 5,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "$44.99",
+          "val": "",
+          "button": ""
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Most Played",
+      "product": [
+        {
+          "id": 1,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/fn/FNBR_38-00_C6MS2_EGS_Launcher_FN_KeyArt_Blade_1200x1600_1200x1600-6aea04d4241e11f924c91cbe18c42203?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "Free",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 2,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S2_1200x1600-90239520d8dce4a685c3f642ff9645a1?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "Free",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 3,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/genshintall_1200x1600-4a5697be3925e8cb1f59725a9830cafc?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "Free",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 4,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/cbd5b3d310a54b12bf3fe8c41994174f/EGS_VALORANT_RiotGames_S2_1200x1600-4c5338a8b14b8da8d45bd57298128673?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "Free",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 5,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/b0cd075465c44f87be3b505ac04a2e46/GTAV_CHARM_Epic_FirstParty_PortraitFOB_1200x1600_R02_1200x1600-a5528b33df876e64f5dee728830c80a3?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "$44.99",
+          "val": "",
+          "button": ""
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Top Upcoming Wishlisted",
+      "product": [
+        {
+          "id": 1,
+          "titlelit": "",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/spt-assets/ba63e2527a8c4b768845919c0d6c788e/mongil-star-dive-1je4v.jpg?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "",
+          "val": "Coming Soon",
+          "button": ""
+        },
+        {
+          "id": 2,
+          "titlelit": "",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/spt-assets/2f8a03caff764b6ba175c9ee1784d99b/tides-of-annihilation-2h07l.png?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "",
+          "val": "Coming Soon",
+          "button": ""
+        },
+        {
+          "id": 3,
+          "titlelit": "",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/spt-assets/011270e3237f4bf69a3459942f005393/subnautica-2-gpqlh.png?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "",
+          "val": "Coming Soon",
+          "button": ""
+        },
+        {
+          "id": 4,
+          "titlelit": "",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/spt-assets/950c689c72814c19b60b6976a025e3ce/xociety-s19l3.png?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "",
+          "val": "Coming Soon",
+          "button": ""
+        },
+        {
+          "id": 5,
+          "titlelit": "",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/spt-assets/7e9368ac3f2a47b1950c0f9363cf395e/lowlife-forms-qo62f.png?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "",
+          "val": "Coming Soon",
+          "button": ""
+        }
+      ]
+    }
+  ],
+
+  "slider9": [
+    {
+      "id": 1,
+      "titlelit": "Drive like you’re in Springfield with Rocket League x The Simpsons!",
+      "titlebig": "Rocket League",
+      "imgsrc": "https://cdn2.unrealengine.com/egs-rl-the-simpsons-breaker-1920x1080-1d94467b6e0f.jpg?resize=1&w=854&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "",
+      "before": "",
+      "after": "",
+      "val": "",
+      "button": "Learn More"
+    },
+    {
+      "id": 2,
+      "titlelit": "Battlefield 6 Season 1 is live. Discover new maps and Strikepoint, a new high-intensity mode.",
+      "titlebig": "Rocket League",
+      "imgsrc": "https://cdn2.unrealengine.com/egs-battlefield-6-season-1-breaker-1920x1080-4bc00b830664.jpg?resize=1&w=854&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "",
+      "before": "",
+      "after": "$44.99",
+      "val": "",
+      "button": ""
+    },
+    {
+      "id": 3,
+      "titlelit": "The Pride and Temperance Update is here! Get two new weapons, unlock new Ordeals, face new Chamber objectives, and more!",
+      "titlebig": "33 Immortals",
+      "imgsrc": "https://cdn2.unrealengine.com/egs-33-immortals-pride-and-temperance-update-breaker-1920x1080-97f2bbb9f47b.jpg?resize=1&w=854&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "",
+      "before": "",
+      "after": "$44.99",
+      "val": "",
+      "button": ""
+    }
+  ],
+
+  "slider10": [
+    {
+      "id": 1,
+      "titlelit": "Cattiva, Chillet & more Pals have arrived! Earn crossover skins, top Deviations, and free Lightforge Loot Crate draws!",
+      "titlebig": "Once Human",
+      "imgsrc": "https://cdn2.unrealengine.com/egs-once-human-palworld-collab-breaker-1920x1080-05e35b5633b9.jpg?resize=1&w=854&h=480&quality=medium",
+      "alt": "Bounty Star",
+      "off": "",
+      "before": "",
+      "after": "",
+      "button": "Play For Free"
+    },
+    {
+      "id": 2,
+      "titlelit": "Absorb your enemies' powers, master your combat flow, and conquer the universe in this co-op action roguelite!",
+      "titlebig": "GODBREAKERS",
+      "imgsrc": "https://cdn2.unrealengine.com/egs-godbreakers-breaker-1920x1080-375887cd9e21.jpg?resize=1&w=854&h=480&quality=medium",
+      "alt": "Bounty Star",
+      "off": "-10%",
+      "before": "$49.99",
+      "after": "$44.99",
+      "button": ""
+    }
+  ],
+  "slider11": [
+    {
+      "id": 1,
+      "titlelit": "coming Soon",
+      "titlebig": "Wilder World",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/691bdcb1ffe944b980ec571558933baa/wilder-world-vhmkw.jpg?resize=1&w=360&h=480&quality=medium",
+      "alt": "Bendy and the Ink Machine",
+      "href": "#",
+      "free": "",
+      "Soon": ""
+    },
+    {
+      "id": 2,
+      "titlelit": "Available 11/06/25",
+      "titlebig": "The Last Caretaker",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/eccf651db1b3410f87e34ef67ea95997/the-last-caretaker-10l13.png?resize=1&w=360&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "free": "",
+      "Soon": ""
+    },
+    {
+      "id": 3,
+      "titlelit": "€39.99",
+      "titlebig": "ARC Raiders",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/9e8b37541e614575b4de303d2c2e44cf/arc-raiders-hrxqv.jpg?resize=1&w=360&h=480&quality=medium",
+      "alt": "Felix The Reaper",
+      "href": "#",
+      "free": "",
+      "Soon": ""
+    },
+    {
+      "id": 4,
+      "titlelit": "Coming Soon",
+      "titlebig": "Idle Champions of the Forgotten Realms",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/ae7e79ff083a43a38686387a2d8b7586/outbreak-zero-1pek6.jpg?resize=1&w=360&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "free": "",
+      "Soon": ""
+    }
+  ],
+  "slider12": [
+    {
+      "id": 1,
+      "title": "Top Sellers",
+      "product": [
+        {
+          "id": 1,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/spt-assets/9e8b37541e614575b4de303d2c2e44cf/arc-raiders-hrxqv.jpg?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "$49.44",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 2,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/a14a02aa3c8143729605eaf7c93d7501/EGS_Battlefield6_BattlefieldStudios_S2_1200x1600-a88625a836120c55650c83d17a010c25?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "$49.44",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 3,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/b0cd075465c44f87be3b505ac04a2e46/GTAV_CHARM_Epic_FirstParty_PortraitFOB_1200x1600_R02_1200x1600-a5528b33df876e64f5dee728830c80a3?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "$44.99",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 4,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic%20Games_860x1148-860x1148-b4c2210ee0c3c3b843a8de399bfe7f5c.jpg?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "$44.99",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 5,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "$44.99",
+          "val": "",
+          "button": ""
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Most Played",
+      "product": [
+        {
+          "id": 1,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/fn/FNBR_38-00_C6MS2_EGS_Launcher_FN_KeyArt_Blade_1200x1600_1200x1600-6aea04d4241e11f924c91cbe18c42203?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "Free",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 2,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S2_1200x1600-90239520d8dce4a685c3f642ff9645a1?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "Free",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 3,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/genshintall_1200x1600-4a5697be3925e8cb1f59725a9830cafc?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "Free",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 4,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/cbd5b3d310a54b12bf3fe8c41994174f/EGS_VALORANT_RiotGames_S2_1200x1600-4c5338a8b14b8da8d45bd57298128673?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "Free",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 5,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/b0cd075465c44f87be3b505ac04a2e46/GTAV_CHARM_Epic_FirstParty_PortraitFOB_1200x1600_R02_1200x1600-a5528b33df876e64f5dee728830c80a3?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "$44.99",
+          "val": "",
+          "button": ""
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Top Upcoming Wishlisted",
+      "product": [
+        {
+          "id": 1,
+          "titlelit": "",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/spt-assets/ba63e2527a8c4b768845919c0d6c788e/mongil-star-dive-1je4v.jpg?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "",
+          "val": "Coming Soon",
+          "button": ""
+        },
+        {
+          "id": 2,
+          "titlelit": "",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/spt-assets/2f8a03caff764b6ba175c9ee1784d99b/tides-of-annihilation-2h07l.png?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "",
+          "val": "Coming Soon",
+          "button": ""
+        },
+        {
+          "id": 3,
+          "titlelit": "",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/spt-assets/011270e3237f4bf69a3459942f005393/subnautica-2-gpqlh.png?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "",
+          "val": "Coming Soon",
+          "button": ""
+        },
+        {
+          "id": 4,
+          "titlelit": "",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/spt-assets/950c689c72814c19b60b6976a025e3ce/xociety-s19l3.png?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "",
+          "val": "Coming Soon",
+          "button": ""
+        },
+        {
+          "id": 5,
+          "titlelit": "",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/spt-assets/7e9368ac3f2a47b1950c0f9363cf395e/lowlife-forms-qo62f.png?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "",
+          "val": "Coming Soon",
+          "button": ""
+        }
+      ]
+    }
+  ],
+  "slider13": [
+    {
+      "id": 1,
+      "titlelit": "Base Game",
+      "titlebig": "Rocket League",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/950c689c72814c19b60b6976a025e3ce/xociety-s19l3.png?resize=1&w=360&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "",
+      "before": "49.44$",
+      "after": "44.40$",
+      "soon": "Comming Soon",
+      "firstrun": "First Run"
+    },
+    {
+      "id": 1,
+      "titlelit": "Base Game",
+      "titlebig": "Farcana",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/8d136fc52fba40858d3c62001b9348b4/farcana-1iwbe.png?resize=1&w=360&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "",
+      "before": "",
+      "after": "44.40$",
+      "soon": "",
+      "firstrun": "First Run"
+    },
+    {
+      "id": 2,
+      "titlelit": "Base Game",
+      "titlebig": "Out of Time",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/bdec776c26534fbf9c36d08fb9ba2899/out-of-time-1rrd9.png?resize=1&w=360&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "-11%",
+      "before": "49.44$",
+      "after": "44.40$",
+      "soon": "",
+      "firstrun": "First Run"
+    },
+    {
+      "id": 3,
+      "titlelit": "Base Game",
+      "titlebig": "The Heirloom",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/e702bff322f942dda862add05dbbf6b9/the-heirloom-1akrz.png?resize=1&w=360&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "",
+      "before": "",
+      "after": "44.40$",
+      "soon": "",
+      "firstrun": "First Run"
+    },
+    {
+      "id": 4,
+      "titlelit": "Base Game",
+      "titlebig": "Super Miaoyin",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/1ad802c409e64dbc932557a01777959a/super-miaoyin-19qj6.png?resize=1&w=360&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "",
+      "before": "",
+      "after": "44.40$",
+      "soon": "Comming Soon",
+      "firstrun": "First Run"
+    },
+    {
+      "id": 5,
+      "titlelit": "Base Game",
+      "titlebig": "Countrytale 2010",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/afb8e8589ca340049cad8bca64ff3182/countrytale-2010-17sgf.png?resize=1&w=360&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "",
+      "before": "",
+      "after": "44.40$",
+      "soon": "Comming Soon",
+      "firstrun": "First Run"
+    }
+  ],
+  "slider14": [
+    {
+      "id": 1,
+      "title": "Top Sellers",
+      "product": [
+        {
+          "id": 1,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/spt-assets/9e8b37541e614575b4de303d2c2e44cf/arc-raiders-hrxqv.jpg?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "$49.44",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 2,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/a14a02aa3c8143729605eaf7c93d7501/EGS_Battlefield6_BattlefieldStudios_S2_1200x1600-a88625a836120c55650c83d17a010c25?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "$49.44",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 3,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/b0cd075465c44f87be3b505ac04a2e46/GTAV_CHARM_Epic_FirstParty_PortraitFOB_1200x1600_R02_1200x1600-a5528b33df876e64f5dee728830c80a3?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "$44.99",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 4,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic%20Games_860x1148-860x1148-b4c2210ee0c3c3b843a8de399bfe7f5c.jpg?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "$44.99",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 5,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "$44.99",
+          "val": "",
+          "button": ""
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Most Played",
+      "product": [
+        {
+          "id": 1,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/fn/FNBR_38-00_C6MS2_EGS_Launcher_FN_KeyArt_Blade_1200x1600_1200x1600-6aea04d4241e11f924c91cbe18c42203?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "Free",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 2,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S2_1200x1600-90239520d8dce4a685c3f642ff9645a1?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "Free",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 3,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/genshintall_1200x1600-4a5697be3925e8cb1f59725a9830cafc?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "Free",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 4,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/cbd5b3d310a54b12bf3fe8c41994174f/EGS_VALORANT_RiotGames_S2_1200x1600-4c5338a8b14b8da8d45bd57298128673?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "Free",
+          "val": "",
+          "button": ""
+        },
+        {
+          "id": 5,
+          "titlelit": "Available 11/04/25",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/offer/b0cd075465c44f87be3b505ac04a2e46/GTAV_CHARM_Epic_FirstParty_PortraitFOB_1200x1600_R02_1200x1600-a5528b33df876e64f5dee728830c80a3?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "$44.99",
+          "val": "",
+          "button": ""
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Top Upcoming Wishlisted",
+      "product": [
+        {
+          "id": 1,
+          "titlelit": "",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/spt-assets/ba63e2527a8c4b768845919c0d6c788e/mongil-star-dive-1je4v.jpg?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "",
+          "val": "Coming Soon",
+          "button": ""
+        },
+        {
+          "id": 2,
+          "titlelit": "",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/spt-assets/2f8a03caff764b6ba175c9ee1784d99b/tides-of-annihilation-2h07l.png?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "",
+          "val": "Coming Soon",
+          "button": ""
+        },
+        {
+          "id": 3,
+          "titlelit": "",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/spt-assets/011270e3237f4bf69a3459942f005393/subnautica-2-gpqlh.png?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "",
+          "val": "Coming Soon",
+          "button": ""
+        },
+        {
+          "id": 4,
+          "titlelit": "",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/spt-assets/950c689c72814c19b60b6976a025e3ce/xociety-s19l3.png?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "",
+          "val": "Coming Soon",
+          "button": ""
+        },
+        {
+          "id": 5,
+          "titlelit": "",
+          "titlebig": "Rocket League",
+          "imgsrc": "https://cdn1.epicgames.com/spt-assets/7e9368ac3f2a47b1950c0f9363cf395e/lowlife-forms-qo62f.png?resize=1&w=360&h=480&quality=medium",
+          "alt": "This Week in Fortnite",
+          "href": "#",
+          "off": "",
+          "before": "",
+          "after": "",
+          "val": "Coming Soon",
+          "button": ""
+        }
+      ]
+    }
+  ],
+  "slider15": [
+    {
+      "id": 1,
+      "titlelit": "Base Game",
+      "titlebig": "Rocket League",
+      "imgsrc": "https://cdn1.epicgames.com/offer/cbd5b3d310a54b12bf3fe8c41994174f/EGS_VALORANT_RiotGames_S2_1200x1600-4c5338a8b14b8da8d45bd57298128673?resize=1&w=360&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "",
+      "before": "49.44$",
+      "after": "44.40$",
+      "soon": "Comming Soon",
+      "firstrun": "First Run"
+    },
+
+    {
+      "id": 2,
+      "titlelit": "Base Game",
+      "titlebig": "Out of Time",
+      "imgsrc": "https://cdn1.epicgames.com/offer/b0cd075465c44f87be3b505ac04a2e46/GTAV_CHARM_Epic_FirstParty_PortraitFOB_1200x1600_R02_1200x1600-a5528b33df876e64f5dee728830c80a3?resize=1&w=360&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "-11%",
+      "before": "49.44$",
+      "after": "44.40$",
+      "soon": "",
+      "firstrun": "First Run"
+    },
+    {
+      "id": 3,
+      "titlelit": "Base Game",
+      "titlebig": "The Heirloom",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-161gk.png?resize=1&w=360&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "",
+      "before": "",
+      "after": "44.40$",
+      "soon": "",
+      "firstrun": "First Run"
+    },
+    {
+      "id": 4,
+      "titlelit": "Base Game",
+      "titlebig": "Super Miaoyin",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1lsmb.png?resize=1&w=360&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "",
+      "before": "",
+      "after": "44.40$",
+      "soon": "Comming Soon",
+      "firstrun": "First Run"
+    },
+    {
+      "id": 5,
+      "titlelit": "Base Game",
+      "titlebig": "Countrytale 2010",
+      "imgsrc": "https://cdn1.epicgames.com/offer/a14a02aa3c8143729605eaf7c93d7501/EGS_Battlefield6_BattlefieldStudios_S2_1200x1600-a88625a836120c55650c83d17a010c25?resize=1&w=360&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "",
+      "before": "",
+      "after": "44.40$",
+      "soon": "Comming Soon",
+      "firstrun": "First Run"
+    }
+  ],
+  "slider16": [
+    {
+      "id": 1,
+      "titlelit": "Base game",
+      "titlebig": "ARC Raiders",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/909dbdb5fabb4002bc0d3f0382be5361/killing-floor-3-1yoza.jpg?resize=1&w=360&h=480&quality=medium",
+      "alt": "Grand Theft Auto V Enhanced",
+      "off": "",
+      "before": "",
+      "after": "Free",
+      "val": ""
+    },
+    {
+      "id": 2,
+      "titlelit": "Base game",
+      "titlebig": "FULL METAL SCHOOLGIRL",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/prod-nemesia/vampire-the-masquerade--bloodlines-2-w6pws.jpg?resize=1&w=360&h=480&quality=medium",
+      "alt": "Grand Theft Auto V Enhanced",
+      "off": "",
+      "before": "",
+      "after": "$44.99",
+      "val": ""
+    },
+    {
+      "id": 3,
+      "titlelit": "Base game",
+      "titlebig": "Grand Theft Auto V Enhanced",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/3209b4dceba04b16bb97558f97c18ea9/33-immortals-9zmqb.png?resize=1&w=360&h=480&quality=medium",
+      "alt": "Grand Theft Auto V Enhanced",
+      "off": "-10%",
+      "before": "$49.99",
+      "after": "$44.99",
+      "val": "VAT Incl."
+    },
+    {
+      "id": 4,
+      "titlelit": "Base game",
+      "titlebig": "Beacon of Neyda",
+      "imgsrc": "https://cdn1.epicgames.com/offer/d6d8a7241f6841a8823f5a533a1564da/pdtall_1200x1600-0ae3ba7466eda85b563337ae5368c975?resize=1&w=360&h=480&quality=medium",
+      "alt": "Grand Theft Auto V Enhanced",
+      "off": "-10%",
+      "before": "$49.99",
+      "after": "$44.99",
+      "val": "VAT Incl."
+    },
+    {
+      "id": 5,
+      "titlelit": "Base game",
+      "titlebig": "GODBREAKERS",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/eb15454c010f4a748498cd3a62096a52/marvel-rivals-wq3mr.png?resize=1&w=360&h=480&quality=medium",
+      "alt": "Grand Theft Auto V Enhanced",
+      "off": "-10%",
+      "before": "",
+      "after": "",
+      "val": "VAT Incl."
+    }
+  ],
+
+  "slider17": [
+    {
+      "id": 1,
+      "titlelit": "Base Game",
+      "titlebig": "Rocket League",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-161gk.png?resize=1&w=360&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "",
+      "before": "49.44$",
+      "after": "44.40$",
+      "soon": "",
+      "firstrun": "Now on Epic"
+    },
+
+    {
+      "id": 2,
+      "titlelit": "Base Game",
+      "titlebig": "Out of Time",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/5c3fa79d15c54e1a959d65db36e29315/serke-o4up0.png?resize=1&w=360&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "-11%",
+      "before": "49.44$",
+      "after": "44.40$",
+      "soon": "",
+      "firstrun": "Now on Epic"
+    },
+    {
+      "id": 3,
+      "titlelit": "Base Game",
+      "titlebig": "The Heirloom",
+      "imgsrc": "https://cdn1.epicgames.com/offer/dae80c0d4e3b4d648498b48af609b8bb/EGS_ARKSurvivalAscended_StudioWildcard_Editions_S2_1200x1600-4610fd69cedc2a17f44226f10350c713?resize=1&w=360&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "",
+      "before": "",
+      "after": "44.40$",
+      "soon": "",
+      "firstrun": "Now on Epic"
+    },
+    {
+      "id": 4,
+      "titlelit": "Base Game",
+      "titlebig": "Super Miaoyin",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/faa94d194e07466490b2282410a1285c/dark-hours-d9kts.png?resize=1&w=360&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "",
+      "before": "",
+      "after": "44.40$",
+      "soon": "",
+      "firstrun": "Now on Epic"
+    },
+    {
+      "id": 5,
+      "titlelit": "Base Game",
+      "titlebig": "Countrytale 2010",
+      "imgsrc": "https://cdn1.epicgames.com/spt-assets/92d7603ba11e4aac8caf158e66ae1431/the-sun-shines-over-us-1dmv8.png?resize=1&w=360&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "",
+      "before": "",
+      "after": "44.40$",
+      "soon": "",
+      "firstrun": "Now on Epic"
+    }
+  ],
+  "slider18": [
+    {
+      "id": 1,
+      "titlelit": "From Red Dead 2 to The Long Dark, read how developers create fear in unexpected places.",
+      "titlebig": "Hidden horrors",
+      "imgsrc": "https://cdn2.unrealengine.com/egs-editorial-hidden-horrors-breaker-1920x1080-a18c21034cba.jpg?resize=1&w=854&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "",
+      "before": "",
+      "after": "",
+      "val": "",
+      "button": "Read More"
+    },
+    {
+      "id": 2,
+      "titlelit": "Battlefield 6 Season 1 is live. Discover new maps and Strikepoint, a new high-intensity mode.",
+      "titlebig": "Rocket League",
+      "imgsrc": "https://cdn2.unrealengine.com/egs-editorial-banishers-ghosts-of-new-eden-1920x1080-f5cd52e864c1.jpg?resize=1&w=854&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "",
+      "before": "",
+      "after": "",
+      "val": "",
+      "button": "Read More"
+    },
+    {
+      "id": 3,
+      "titlelit": "The Pride and Temperance Update is here! Get two new weapons, unlock new Ordeals, face new Chamber objectives, and more!",
+      "titlebig": "33 Immortals",
+      "imgsrc": "https://cdn2.unrealengine.com/egs-editorial-evergreen-breaker-1920x1080-8a3de6eed62a.jpg?resize=1&w=854&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "",
+      "before": "",
+      "after": "",
+      "val": "",
+      "button": "Read More"
+    }
+  ],
+  "slider19": [
+    {
+      "id": 1,
+      "titlelit": "Drive like you’re in Springfield with Rocket League x The Simpsons!",
+      "titlebig": "Rocket League",
+      "imgsrc": "https://cdn2.unrealengine.com/egs-sales-specials-breaker-1280x721-8d81919a48e5.jpg?resize=1&w=854&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "",
+      "before": "",
+      "after": "",
+      "val": "",
+      "button": "Browse"
+    },
+    {
+      "id": 2,
+      "titlelit": "Battlefield 6 Season 1 is live. Discover new maps and Strikepoint, a new high-intensity mode.",
+      "titlebig": "Rocket League",
+      "imgsrc": "https://cdn2.unrealengine.com/egs-free-games-breaker-jan-2024-1920x1080-028e40df3111.jpg?resize=1&w=854&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "",
+      "before": "",
+      "after": "",
+      "val": "",
+      "button": "Play Now"
+    },
+    {
+      "id": 3,
+      "titlelit": "The Pride and Temperance Update is here! Get two new weapons, unlock new Ordeals, face new Chamber objectives, and more!",
+      "titlebig": "33 Immortals",
+      "imgsrc": "https://cdn2.unrealengine.com/egs-non-game-apppromo-blog-1920x1080-59bd51d9d448.jpg?resize=1&w=854&h=480&quality=medium",
+      "alt": "This Week in Fortnite",
+      "href": "#",
+      "off": "",
+      "before": "",
+      "after": "",
+      "val": "",
+      "button": "Browse"
+    }
+  ],
+  "acordion":[
+    {
+      "id":1,"title":"Games","body":[
+        {"id":1,"title":"Fortnite","href":"#"},
+        {"id":2,"title":"Rocket League","href":"#"},
+        {"id":3,"title":"Unreal tournament","href":"#"},
+        {"id":4,"title":"infinity Blade","href":"#"},
+        {"id":5,"title":"shadow Complex","href":"#"},
+        {"id":6,"title":"Robo recall","href":"#"}
+      
+      ]
+    },
+      {
+      "id":1,"title":"Marketplaces","body":[
+        {"id":1,"title":"Epic Games Store","href":"#"},
+        {"id":2,"title":"Fab","href":"#"},
+        {"id":3,"title":"Sketchfab","href":"#"},
+        {"id":4,"title":"ArtStation","href":"#"},
+        {"id":5,"title":"Store Refund policy","href":"#"},
+        {"id":6,"title":"Store EULA","href":"#"}
+      
+      ]
+    },
+      {
+      "id":1,"title":"Tools","body":[
+        {"id":1,"title":"Epic Games Store","href":"#"},
+        {"id":2,"title":"Fab","href":"#"},
+        {"id":3,"title":"Sketchfab","href":"#"},
+        {"id":4,"title":"ArtStation","href":"#"},
+        {"id":5,"title":"Store Refund policy","href":"#"},
+        {"id":6,"title":"Store EULA","href":"#"}
+      
+      ]
+    },
+      {
+      "id":1,"title":"Online Services","body":[
+        {"id":1,"title":"Epic Games Store","href":"#"},
+        {"id":2,"title":"Fab","href":"#"},
+        {"id":3,"title":"Sketchfab","href":"#"},
+        {"id":4,"title":"ArtStation","href":"#"},
+        {"id":5,"title":"Store Refund policy","href":"#"},
+        {"id":6,"title":"Store EULA","href":"#"}
+      
+      ]
+    },
+      {
+      "id":1,"title":"Company","body":[
+        {"id":1,"title":"Epic Games Store","href":"#"},
+        {"id":2,"title":"Fab","href":"#"},
+        {"id":3,"title":"Sketchfab","href":"#"},
+        {"id":4,"title":"ArtStation","href":"#"},
+        {"id":5,"title":"Store Refund policy","href":"#"},
+        {"id":6,"title":"Store EULA","href":"#"}
+      
+      ]
+    },
+      {
+      "id":1,"title":"Resources","body":[
+        {"id":1,"title":"Epic Games Store","href":"#"},
+        {"id":2,"title":"Fab","href":"#"},
+        {"id":3,"title":"Sketchfab","href":"#"},
+        {"id":4,"title":"ArtStation","href":"#"},
+        {"id":5,"title":"Store Refund policy","href":"#"},
+        {"id":6,"title":"Store EULA","href":"#"}
+      
+      ]
+    }
+  ]
+
+}
+

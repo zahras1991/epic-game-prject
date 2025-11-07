@@ -1,0 +1,32 @@
+@import url(./mob-navbar.css);
+@import url(./mob-search.css);
+@import url(./mob-slider1-sec.css);
+@import url(./mob-slider2-sec.css);
+@import url(./mob-slider3-sec.css);
+@import url(./mob-slider4-sec.css);
+@import url(./mob-slider5-sec.css);
+@import url(./mob-slider6-sec.css);
+@import url(./mob-slider7-sec.css);
+
+@import url(./mob-slider8-sec.css);
+@import url(./mob-slider9-sec.css);
+@import url(./mob-slider10-sec.css);
+@import url(./mob-slider11-sec.css);
+@import url(./mob-slider12-sec.css);
+@import url(./mob-slider13.css);
+@import url(./mob-slider14-sec.css);
+@import url(./mob-slider15-sec.css);
+@import url(./mob-slider16-sec.css);
+@import url(./mob-slider17-sec.css);
+@import url(./mob-slider18-sec.css);
+@import url(./mob-slider19-sec.css);
+@import url(./mob-slider20-sec.css);
+@import url(./mob-slider21-sec.css);
+@import url(./mob-slider22-sec.css);
+@import url(./mob-slider23-sec.css);
+@import url(./mob-slider24-sec.css);
+@import url(./mob-slider25-sec.css);
+@import url(./mob-footer.css);
+.d-none-mob{
+    display: none;
+}

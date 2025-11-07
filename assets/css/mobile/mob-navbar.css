@@ -1,0 +1,148 @@
+
+
+.bg-body-tertiary{
+    background-color:#121218ea !important;
+
+}
+.contain{
+    width: 100%!important;
+    overflow: hidden;
+      background-color:#121218ea !important;
+      padding:0!important;
+}
+.navbar{
+  
+    height: 72px;
+    padding:16px 8px;
+    display: flex;
+    align-items: center;
+    gap:22px;
+    /* width: 98%!important; */
+    margin: 0 auto;
+    position: relative;
+    z-index: 99999999999;
+}
+
+.navbar-nav .nav-item .nav-link,
+.navbar-nav .nav-item .submenu a{
+  color: #fff !important;        /* 👈 رنگ سفید برای متن */
+  font-family: epic-bold;        /* 👈 فونت دلخواه */
+  font-size: 16px;               /* 👈 اندازه مناسب */
+  text-decoration: none;         /* حذف زیرخط */
+  transition: color 0.3s ease;
+}
+
+/* menu */
+
+.navbar-collapse{
+ background-color:#121218ea !important;
+ padding: 0!important;
+ margin: 0!important;
+}
+.navbar-toggler{
+    border: unset;
+    padding: 0!important;
+    margin: 0!important;
+
+}
+.navbar-toggler-icon{
+    border: unset;
+     margin-left:18px;
+     padding: 0!important;
+     
+}
+
+.navbar-toggler svg{
+    width: 26px!important;
+    height: 26px!important;
+    color: #a39c9c;
+
+
+}
+
+
+.btn-epic{
+align-items: center;
+justify-content: center;
+    background-color: unset!important;
+  
+    padding:0!important;
+    border: unset!important;
+    margin-right: 10px;
+}
+.btn-epic img{
+    width:25px!important;
+    height:32px!important;
+  
+  
+ 
+}
+/* store logo */
+.store{
+
+   height: 100%;
+ 
+    overflow: hidden;
+   margin-right: auto;
+   transition: 400ms;
+    
+}
+.btn-main{
+    transition: 200ms;
+    margin-left: 10px;
+}
+.store img{
+    width: 54px!important;
+    height: 28px!important;
+    object-fit: cover;
+    vertical-align: center;
+      display: inline-block;
+}
+/* install btn */
+.download{
+    width: 86px;
+    height: 28px;
+    display: inline-block;
+    text-align: center;
+    background-color: #26bbff;
+    border-radius: 6px;
+     font-weight: 500;
+    border: unset;
+   
+    
+}
+.download a{
+    text-decoration: none;
+    font-size: 16px;
+    color: black;
+}
+/* *************************** */
+.navbar-toggler {
+  border: none !important;       
+  outline: none !important;      
+  box-shadow: none !important; 
+  
+  
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active {
+  outline: none !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+/* ******************************* */
+.navbar-collapse.show {
+ height: 100vh;
+ width: 100%;
+
+}
+/* **************actives************* */
+.store-active{
+ transform: translate(-50px);
+
+
+}
+.btn-main-active{
+    opacity: 0;
+}

@@ -1,0 +1,35 @@
+@font-face {
+    font-family: epic;
+    src: url(../font/Inter-Regular.woff2);
+}
+@font-face {
+    font-family: epic-bold;
+    src: url(../font/InterTight-Bold.woff2);
+}
+@font-face {
+    font-family: epic-md;
+    src: url(../font/Inter-Medium.woff2);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: epic;
+    
+
+}
+
+html, body {
+  overflow-x: hidden;
+    background-color: #101014!important;
+    width:100%;
+}
+.swiper-pagination {
+  position: absolute;
+
+  margin-top: 10px !important;
+  bottom: 5px !important;
+}
+
+

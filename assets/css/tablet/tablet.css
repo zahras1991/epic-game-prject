@@ -1,0 +1,35 @@
+@import url(./tab-navbar.css);
+@import url(./tab-search.css);
+@import url(./tab-slider1-sec.css);
+@import url(./tab-slider2-sec.css);
+@import url(./tab-slider3-sec.css);
+@import url(./tab-slider4-sec.css);
+@import url(./tab-slider5-sec.css);
+@import url(./tab-slider6-sec.css);
+@import url(./tab-slider7-sec.css);
+
+@import url(./tab-slider8-sec.css);
+@import url(./tab-slider9-sec.css);
+@import url(./tab-slider10-sec.css);
+@import url(./tab-slider11-sec.css);
+@import url(./tab-slider12-sec.css);
+@import url(./tab-slider13.css);
+@import url(./tab-slider14-sec.css);
+@import url(./tab-slider15-sec.css);
+@import url(./tab-slider16-sec.css);
+@import url(./tab-slider17-sec.css);
+@import url(./tab-slider18-sec.css);
+@import url(./tab-slider19-sec.css);
+@import url(./tab-slider20-sec.css);
+@import url(./tab-slider21-sec.css);
+@import url(./tab-slider22-sec.css);
+@import url(./tab-slider23-sec.css);
+@import url(./tab-slider24-sec.css);
+@import url(./tab-slider25-sec.css);
+@import url(./tab-footer.css);
+
+
+
+.d-none-tab{
+    display: none;
+}
