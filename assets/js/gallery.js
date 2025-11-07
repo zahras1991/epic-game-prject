@@ -70,7 +70,7 @@ function startAutoPlay() {
   interval = setInterval(() => {
     current = (current + 1) % images.slider1.length;
     showImage(current);
-  }, 5000);
+  }, 6000);
 }
 
 
