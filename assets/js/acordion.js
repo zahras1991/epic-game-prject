@@ -6,7 +6,7 @@ async function acordion() {
 
   let data = await fetch("https://zahras1991.github.io/epic-game-db/db.json");
   let res = await data.json();
-  let result = res
+  let result = res.
     acordion.map((item) => {
        if (item.body) {
        
